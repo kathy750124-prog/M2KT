@@ -1,0 +1,2364 @@
+{
+  "test": [
+    {
+      "available_clip_count": 2,
+      "course_id": "39170",
+      "omitted_clip_count": 0,
+      "report_characters": 513,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/39170.txt",
+      "report_sha256": "241a4fe22c65bc54adebf36dcd21120ed0787d36a98f0d6346460572ae935e8e",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/39170/00_s1_v7.mp4",
+          "clip_sha256": "33ab0f06cd66d50ad9ae19322f3e5d2798f6730e64deff04316b989864bb6243",
+          "end_seconds": 833.725,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/39170/39170_s1_20260521_102000-111500_view7_cour255451_primary.mp4",
+          "start_seconds": 825.725,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/39170/01_s2_v5.mp4",
+          "clip_sha256": "c9956f38658984dcab54a2b143084479decb4adada764ab5dd33892c177abbc6",
+          "end_seconds": 757.723,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/39170/39170_s2_20260521_111501-120500_view5_cour255452_primary.mp4",
+          "start_seconds": 749.723,
+          "view": 5
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46801",
+      "omitted_clip_count": 0,
+      "report_characters": 514,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46801.txt",
+      "report_sha256": "f3cdbcea8d9c0263b046e02a82c39b304f12f8581de4bde50be7fc1b62ce013b",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46801/00_s1_v7.mp4",
+          "clip_sha256": "6fa7a941fe7a19f4abd888a58b0b39213821b8b248baef8d31f7145d9f299e0d",
+          "end_seconds": 832.746,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46801/46801_s1_20260525_082500-092000_view7_cour258602_primary.mp4",
+          "start_seconds": 824.746,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46801/01_s2_v5.mp4",
+          "clip_sha256": "57ec8ea5b4dee68f7f5e7b535825bb9bc2ae3f54be33bc813f4c237dc5c73b02",
+          "end_seconds": 757.679,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46801/46801_s2_20260525_092001-101000_view5_cour258603_primary.mp4",
+          "start_seconds": 749.679,
+          "view": 5
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "45268",
+      "omitted_clip_count": 0,
+      "report_characters": 448,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/45268.txt",
+      "report_sha256": "93cf97226ef3a9d82af94de1706ee55c28c25772867ac256c4c1483826e5e0bd",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45268/00_s1_v5.mp4",
+          "clip_sha256": "2f4541377e507808a385181818f53a21dceab43b9cb0fe8546dc17c66b988125",
+          "end_seconds": 831.968,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45268/45268_s1_20260525_082500-092000_view5_cour258120_primary.mp4",
+          "start_seconds": 823.968,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45268/01_s2_v7.mp4",
+          "clip_sha256": "85f11913123c7c53a3ddd934e96f7b4a729e4f03b64f4ee8f5d7268c79418e0f",
+          "end_seconds": 758.325,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45268/45268_s2_20260525_092001-101000_view7_cour258121_primary.mp4",
+          "start_seconds": 750.325,
+          "view": 7
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "45283",
+      "omitted_clip_count": 0,
+      "report_characters": 495,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/45283.txt",
+      "report_sha256": "ac3a3d011ab9d7f549c211cdb397d7c3393cb88470878d2bf6c04aefd5212084",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45283/00_s1_v7.mp4",
+          "clip_sha256": "fe08dd6484bcd37a71183a8bd1cae5cca0c42934d4ac18491e1df5c5edac118e",
+          "end_seconds": 832.963,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45283/45283_s1_20260525_082500-092000_view7_cour258626_primary.mp4",
+          "start_seconds": 824.963,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45283/01_s2_v5.mp4",
+          "clip_sha256": "509bfc1f63eb0e0dbe274d720ed1de12c1fd67775fb042f6699b9a7f0cb4212a",
+          "end_seconds": 758.321,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45283/45283_s2_20260525_092001-101000_view5_cour258627_primary.mp4",
+          "start_seconds": 750.321,
+          "view": 5
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "45456",
+      "omitted_clip_count": 0,
+      "report_characters": 338,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/45456.txt",
+      "report_sha256": "834867b8379434ee1b8ee93488386c09bd947a0782a174c7218e0a2c9c169b39",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45456/00_s1_v5.mp4",
+          "clip_sha256": "bf49605b104f86b4224e272128b62937bcf097d78aa71378ff0001bc17eba5f6",
+          "end_seconds": 832.649,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45456/45456_s1_20260525_082500-092000_view5_cour259162_primary.mp4",
+          "start_seconds": 824.649,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45456/01_s2_v7.mp4",
+          "clip_sha256": "f45362b62663fb15b855596ca46b07125dcd2d5305bd718dafc6c7e9b6784b35",
+          "end_seconds": 757.924,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45456/45456_s2_20260525_092001-101000_view7_cour259163_primary.mp4",
+          "start_seconds": 749.924,
+          "view": 7
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46366",
+      "omitted_clip_count": 0,
+      "report_characters": 587,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46366.txt",
+      "report_sha256": "08c58762ae051258c2b8c80e86e8e3b9ed5642650f19530f94a8f7de69ca0520",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46366/00_s1_v7.mp4",
+          "clip_sha256": "0aa4b1a301803cf2ac902483fcda063bbee9126c8f387606060134557736ca3c",
+          "end_seconds": 833.035,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46366/46366_s1_20260525_082500-092000_view7_cour258716_primary.mp4",
+          "start_seconds": 825.035,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46366/01_s2_v7.mp4",
+          "clip_sha256": "ba9e7f422d7e7c2257edcc3e351ae58539c854809ca1fab4c9666285c0e5141f",
+          "end_seconds": 758.056,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46366/46366_s2_20260525_092001-101000_view7_cour258717_primary.mp4",
+          "start_seconds": 750.056,
+          "view": 7
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46392",
+      "omitted_clip_count": 0,
+      "report_characters": 848,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46392.txt",
+      "report_sha256": "91f2922eeae585f40501383604ef275a7670888d13abe3b010aacd40ae887589",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46392/00_s1_v7.mp4",
+          "clip_sha256": "c88d7bcd569c186b89c55d8d2518000bd9fe22fdcc23e15d595ca1f9c87420d8",
+          "end_seconds": 833.114,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46392/46392_s1_20260525_082500-092000_view7_cour258220_primary.mp4",
+          "start_seconds": 825.114,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46392/01_s2_v7.mp4",
+          "clip_sha256": "c798c938acd6ab30f58a60fe790fb4f2623f7cf7325892373b529def69dae906",
+          "end_seconds": 757.909,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46392/46392_s2_20260525_092001-101000_view7_cour258221_primary.mp4",
+          "start_seconds": 749.909,
+          "view": 7
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46476",
+      "omitted_clip_count": 0,
+      "report_characters": 538,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46476.txt",
+      "report_sha256": "453e2793720febf0763e73d6f891ab9fc9d379a5030450b05dacc9cf57973007",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46476/00_s1_v7.mp4",
+          "clip_sha256": "8ef8eb60176e0d360d3e94990ac9601c4614be20728ffcf7f9910803c4fcd7ad",
+          "end_seconds": 833.756,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46476/46476_s1_20260525_102000-111500_view7_cour258964_primary.mp4",
+          "start_seconds": 825.756,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46476/01_s2_v7.mp4",
+          "clip_sha256": "9be41aa463de5a996870ec592c1f0b73bd3b6270bc715d129eba2a28b24c66b0",
+          "end_seconds": 758.469,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46476/46476_s2_20260525_111501-120500_view7_cour258965_primary.mp4",
+          "start_seconds": 750.469,
+          "view": 7
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "38524",
+      "omitted_clip_count": 0,
+      "report_characters": 940,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/38524.txt",
+      "report_sha256": "d7c671c77fbf8406d1147a49069b93ee52586bcc873e5675f7c7a84d175cc07d",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/38524/00_s1_v7.mp4",
+          "clip_sha256": "534e51b7a078f172631de5383a640d083ec5eb095ce8b012d6bd0ba870e211a3",
+          "end_seconds": 757.981,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/38524/38524_s1_20260521_092001-101000_view7_cour256420_primary.mp4",
+          "start_seconds": 749.981,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/38524/01_s2_v7.mp4",
+          "clip_sha256": "9c37023735bacf03ef910cf86be857e60c57735ccc1b222a31488253cd3fbb35",
+          "end_seconds": 832.912,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/38524/38524_s2_20260521_082500-092000_view7_cour256419_primary.mp4",
+          "start_seconds": 824.912,
+          "view": 7
+        }
+      ],
+      "split": "test"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "45392",
+      "omitted_clip_count": 0,
+      "report_characters": 468,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/45392.txt",
+      "report_sha256": "8de3c664fdf4b2e76032f6dd6b780635f40c1d0f693f9b961ad301349d8a6747",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45392/00_s1_v7.mp4",
+          "clip_sha256": "82ad14c9413043cf9ae3e9c17c564637a3336a51817661bef5f939f608660833",
+          "end_seconds": 832.879,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45392/45392_s1_20260525_082500-092000_view7_cour258808_primary.mp4",
+          "start_seconds": 824.879,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45392/01_s2_v7.mp4",
+          "clip_sha256": "91a392bbf8c0141e94741af4b57362eb6266aa99407a6bf8d9bb9632d4f860f9",
+          "end_seconds": 758.231,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45392/45392_s2_20260525_092001-101000_view7_cour258809_primary.mp4",
+          "start_seconds": 750.231,
+          "view": 7
+        }
+      ],
+      "split": "test"
+    }
+  ],
+  "train": [
+    {
+      "available_clip_count": 2,
+      "course_id": "46423",
+      "omitted_clip_count": 0,
+      "report_characters": 553,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46423.txt",
+      "report_sha256": "ee04a2cb52d0674e38815c7e4450a8a3e2b5d7f1439cf0a18888d73e70ac2291",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46423/00_s1_v7.mp4",
+          "clip_sha256": "fd2dc294f1dfca355d8d72835cda4107baa8bf715becae92d1754be20958bed4",
+          "end_seconds": 832.702,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46423/46423_s1_20260525_082500-092000_view7_cour258244_primary.mp4",
+          "start_seconds": 824.702,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46423/01_s2_v5.mp4",
+          "clip_sha256": "42b367183e033e703e0c3a1b9223f8252062ebe65ae7a0bbbbd1dfa355d72d29",
+          "end_seconds": 758.142,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46423/46423_s2_20260525_092001-101000_view5_cour258245_primary.mp4",
+          "start_seconds": 750.142,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46752",
+      "omitted_clip_count": 0,
+      "report_characters": 486,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46752.txt",
+      "report_sha256": "fd47de389dcc0713abc61d84e4299f47379f31625f0072dfb154e1152a716ca3",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46752/00_s1_v7.mp4",
+          "clip_sha256": "8ae95181bd97c230f0b8f7c995abc29fbff952c97b2d4c78dd0d1f9f27b5f8be",
+          "end_seconds": 833.481,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46752/46752_s1_20260525_102000-111500_view7_cour258338_primary.mp4",
+          "start_seconds": 825.481,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46752/01_s2_v7.mp4",
+          "clip_sha256": "f9a0783d603a150417be7881226572572a3db0c6e852eb1aed60cd08fb3ccc39",
+          "end_seconds": 758.169,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46752/46752_s2_20260525_111501-120500_view7_cour258339_primary.mp4",
+          "start_seconds": 750.169,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "43730",
+      "omitted_clip_count": 0,
+      "report_characters": 421,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/43730.txt",
+      "report_sha256": "8642402809fed450443f97d9b48791fb7cdeb16690580eb829f895222dc03294",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/43730/00_s1_v7.mp4",
+          "clip_sha256": "875b252fd766d8213e3fe2dd7c189244f9d29493592a5eae47a11ae6ee8a7a83",
+          "end_seconds": 832.824,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/43730/43730_s1_20260525_082500-092000_view7_cour258784_primary.mp4",
+          "start_seconds": 824.824,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/43730/01_s2_v7.mp4",
+          "clip_sha256": "0021ce660c03983e74a213509ad664ec69a0f81cea1bc96475784408a9fd26c0",
+          "end_seconds": 757.726,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/43730/43730_s2_20260525_092001-101000_view7_cour258785_primary.mp4",
+          "start_seconds": 749.726,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46384",
+      "omitted_clip_count": 0,
+      "report_characters": 484,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46384.txt",
+      "report_sha256": "dd6273a574fcf3346cdba10322a85c484e71f718f424eed50c3b36a07f29f47c",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46384/00_s1_v7.mp4",
+          "clip_sha256": "32f7100ef9ccbcb5a8e3b2c2c9210db56ec073243d613744201a7361c6b9ce63",
+          "end_seconds": 832.359,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46384/46384_s1_20260525_082500-092000_view7_cour258224_primary.mp4",
+          "start_seconds": 824.359,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46384/01_s2_v7.mp4",
+          "clip_sha256": "c9dfa226a668a7ca602072313fecb6809efc06dd421eb4d08fec1dc940450e74",
+          "end_seconds": 758.239,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46384/46384_s2_20260525_092001-101000_view7_cour258225_primary.mp4",
+          "start_seconds": 750.239,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46723",
+      "omitted_clip_count": 0,
+      "report_characters": 564,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46723.txt",
+      "report_sha256": "de9283e99423f8e0ef529eb301170e7ec43437937e0b49cd94f50f72cf07aee7",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46723/00_s1_v5.mp4",
+          "clip_sha256": "8e1854368c65c72fe5a34cf1e236764917476f910a1d33a4ffba3358343499e7",
+          "end_seconds": 833.094,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46723/46723_s1_20260525_102000-111500_view5_cour258400_primary.mp4",
+          "start_seconds": 825.094,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46723/01_s2_v7.mp4",
+          "clip_sha256": "8d032f04d529f5306ebdb2c34fe0442f8cab5490d73e306fe9c908807d630bda",
+          "end_seconds": 759.025,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46723/46723_s2_20260525_111501-120500_view7_cour258401_primary.mp4",
+          "start_seconds": 751.025,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46515",
+      "omitted_clip_count": 0,
+      "report_characters": 622,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46515.txt",
+      "report_sha256": "dcf01cefa37bb3b549bb536a79aeaaf9d009bd6b455b978e0efc74aab635079b",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46515/00_s1_v7.mp4",
+          "clip_sha256": "1aeb81c8fe084631b3ed37ebce4e25d4f95d2aa1eace219a7d7ba3345af2d5a7",
+          "end_seconds": 833.136,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46515/46515_s1_20260525_102000-111500_view7_cour259034_primary.mp4",
+          "start_seconds": 825.136,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46515/01_s2_v7.mp4",
+          "clip_sha256": "2801626f3a49200a19d5043c874698cb30948e187ac1ae97ca9c36d9ec325e3a",
+          "end_seconds": 758.414,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46515/46515_s2_20260525_111501-120500_view7_cour259035_primary.mp4",
+          "start_seconds": 750.414,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46762",
+      "omitted_clip_count": 0,
+      "report_characters": 520,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46762.txt",
+      "report_sha256": "fe55490226a33024c8511dddfb5de4333cbbe7839a1c4789dd2f14e0a410281a",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46762/00_s1_v7.mp4",
+          "clip_sha256": "a977c39f4d9a22b45c6af0d13e13cd374c506e55f2795d81eba715d5e683c50d",
+          "end_seconds": 832.407,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46762/46762_s1_20260525_082500-092000_view7_cour258430_primary.mp4",
+          "start_seconds": 824.407,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46762/01_s1_v7.mp4",
+          "clip_sha256": "4d08b5ff284e0ea81c75fdc5ad2b254c56639b08729cc2099f61e628668aa36d",
+          "end_seconds": 2069.017,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46762/46762_s1_20260525_082500-092000_view7_cour258430_primary.mp4",
+          "start_seconds": 2061.017,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "45441",
+      "omitted_clip_count": 0,
+      "report_characters": 606,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/45441.txt",
+      "report_sha256": "b7fd0b3c69c7067934de84b34d2dab024d2d1852894857ad630538291d8b7049",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45441/00_s1_v7.mp4",
+          "clip_sha256": "7957747c91a8206e7fe32cf712c5be573c7cacbe92a500b131d5fd0e5f8a1ed8",
+          "end_seconds": 832.485,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45441/45441_s1_20260525_082500-092000_view7_cour259116_primary.mp4",
+          "start_seconds": 824.485,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45441/01_s2_v7.mp4",
+          "clip_sha256": "0a7d7be22f09d7ce13b81aa1f89420063c3946a2cd17dcb4075d9d8b683c29f7",
+          "end_seconds": 758.317,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45441/45441_s2_20260525_092001-101000_view7_cour259117_primary.mp4",
+          "start_seconds": 750.317,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46652",
+      "omitted_clip_count": 0,
+      "report_characters": 569,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46652.txt",
+      "report_sha256": "706ff736e144fd2ddf90a641de23eb5d7bc2b944d6bb47267206e9b438dbe9ef",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46652/00_s1_v7.mp4",
+          "clip_sha256": "0d6a4f85e490d7933acf3e985c6992ec713b5b5aa58c9e85aa1f8f0177c47bcc",
+          "end_seconds": 833.802,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46652/46652_s1_20260525_102000-111500_view7_cour258254_primary.mp4",
+          "start_seconds": 825.802,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46652/01_s2_v7.mp4",
+          "clip_sha256": "5de6b5b8bb0972ad8c38ff706aa16e3aefe058aa3b0faab717b4a01c752cab61",
+          "end_seconds": 758.065,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46652/46652_s2_20260525_111501-120500_view7_cour258255_primary.mp4",
+          "start_seconds": 750.065,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46618",
+      "omitted_clip_count": 0,
+      "report_characters": 569,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46618.txt",
+      "report_sha256": "f985d6bd2f9d89d7694a0d853cf61607bfb0624f74e51b57af7e4af4a2e2286c",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46618/00_s1_v7.mp4",
+          "clip_sha256": "52c89f0f0984b6aad8216bb55f759ef5c83c434e4f14c5e6f73ce8c6658cda8e",
+          "end_seconds": 833.039,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46618/46618_s1_20260525_102000-111500_view7_cour258324_primary.mp4",
+          "start_seconds": 825.039,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46618/01_s2_v7.mp4",
+          "clip_sha256": "47ed42b75cb2c59d9f1f976d25d872c6b761735bd92ddd044bd514ed8734f2f2",
+          "end_seconds": 758.6,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46618/46618_s2_20260525_111501-120500_view7_cour258325_primary.mp4",
+          "start_seconds": 750.6,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46369",
+      "omitted_clip_count": 0,
+      "report_characters": 552,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46369.txt",
+      "report_sha256": "3bd7f3052767b80fb42bff323b4ad7e46931b067a7e7358ad49e2bdf9cefe683",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46369/00_s1_v7.mp4",
+          "clip_sha256": "ec6eb7f4dc7ec6d913a3c1b6aaf3a8ed6964b8065088924e8187beaa907373d7",
+          "end_seconds": 833.314,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46369/46369_s1_20260525_082500-092000_view7_cour258728_primary.mp4",
+          "start_seconds": 825.314,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46369/01_s2_v7.mp4",
+          "clip_sha256": "181a8ab75b8d4879da1764f87f60278bc9988881fa93c32a41729abb1ea7dcab",
+          "end_seconds": 757.968,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46369/46369_s2_20260525_092001-101000_view7_cour258729_primary.mp4",
+          "start_seconds": 749.968,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46834",
+      "omitted_clip_count": 0,
+      "report_characters": 519,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46834.txt",
+      "report_sha256": "0366d069d06f03ea81a5787eedfcf1d13a8039957e7783cb304334cc2fd9584c",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46834/00_s1_v7.mp4",
+          "clip_sha256": "f893d6fa5a0ba48f52eb08db7020bfc823c1b10af40a788eb95afea6b62b099f",
+          "end_seconds": 832.637,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46834/46834_s1_20260525_082500-092000_view7_cour258674_primary.mp4",
+          "start_seconds": 824.637,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46834/01_s2_v7.mp4",
+          "clip_sha256": "13ceb37ac11f939d2b98756bdf491e1837d248b467e4cfb6c0c400b13621089d",
+          "end_seconds": 758.187,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46834/46834_s2_20260525_092001-101000_view7_cour258675_primary.mp4",
+          "start_seconds": 750.187,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46976",
+      "omitted_clip_count": 0,
+      "report_characters": 467,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46976.txt",
+      "report_sha256": "1d84a7e45ae0dbefde1473c9fda11caec3bb6f6765396e4cb298a549f8eb86a3",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46976/00_s1_v7.mp4",
+          "clip_sha256": "3ec9f9635aa664df6e47d7a63ce6462f3ac907ef22ee052ac7aecad7ddf13dcd",
+          "end_seconds": 833.039,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46976/46976_s1_20260525_102000-111500_view7_cour258856_primary.mp4",
+          "start_seconds": 825.039,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46976/01_s2_v7.mp4",
+          "clip_sha256": "277f76fe0e162a716d5b40b957231fc11d51ba517a2c7ee5a605a03db2836443",
+          "end_seconds": 758.09,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46976/46976_s2_20260525_111501-120500_view7_cour258857_primary.mp4",
+          "start_seconds": 750.09,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47035",
+      "omitted_clip_count": 0,
+      "report_characters": 533,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47035.txt",
+      "report_sha256": "0f29bd816c69c00c03684f9bce25a8a20a35d25c00b9bc87f8346c020efbcfd5",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47035/00_s1_v7.mp4",
+          "clip_sha256": "0488e5737ed6bcaa0ac4274b7c5d68cf7b66fd1e6bdd6fdd7d27832ebe4884dd",
+          "end_seconds": 833.443,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47035/47035_s1_20260525_102000-111500_view7_cour258460_primary.mp4",
+          "start_seconds": 825.443,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47035/01_s2_v7.mp4",
+          "clip_sha256": "a6dbe54036c8a963f402c6ff43525263fa517091f8eeb46ac08b9c23c48b27d7",
+          "end_seconds": 758.674,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47035/47035_s2_20260525_111501-120500_view7_cour258461_primary.mp4",
+          "start_seconds": 750.674,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46773",
+      "omitted_clip_count": 0,
+      "report_characters": 844,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46773.txt",
+      "report_sha256": "a2617d89eb3450c84b8d57ee678e9fa65c1fc16a5a910f09ab10db0244f996f2",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46773/00_s1_v7.mp4",
+          "clip_sha256": "2fee72bdccf205dcc4b9be4e42ea7872073e1ceb224a955cba7d7cc1e65be1de",
+          "end_seconds": 833.109,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46773/46773_s1_20260525_082500-092000_view7_cour258894_primary.mp4",
+          "start_seconds": 825.109,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46773/01_s2_v7.mp4",
+          "clip_sha256": "71925670c3c56d3736aef018ad916fee2226122f2ae50e9065fe93217dec3a13",
+          "end_seconds": 758.164,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46773/46773_s2_20260525_092001-101000_view7_cour258895_primary.mp4",
+          "start_seconds": 750.164,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "43460",
+      "omitted_clip_count": 0,
+      "report_characters": 627,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/43460.txt",
+      "report_sha256": "23b3d69783aa081af63e5a68326ba1fe27515c7dd955ce4c4c3c875a027bec7d",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/43460/00_s1_v5.mp4",
+          "clip_sha256": "d4820683ac6d3ba4968e20c0ac02ba2388cb92db6e1458696146ebad077cd57f",
+          "end_seconds": 833.142,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/43460/43460_s1_20260525_082500-092000_view5_cour258588_primary.mp4",
+          "start_seconds": 825.142,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/43460/01_s2_v5.mp4",
+          "clip_sha256": "dfa7d1008462796f2f2c128175f25b1ad32754f60b584d6d1aa20882ce9f46fa",
+          "end_seconds": 757.864,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/43460/43460_s2_20260525_092001-101000_view5_cour258589_primary.mp4",
+          "start_seconds": 749.864,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46954",
+      "omitted_clip_count": 0,
+      "report_characters": 543,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46954.txt",
+      "report_sha256": "533874053879d7adc5c9135b13f10a1c3b0f0f63a545a6754d96e16ba28242f7",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46954/00_s1_v7.mp4",
+          "clip_sha256": "6415b270d9aa6049c15b3b306088782fee38eeccf4d6f021fc7b3051661d4620",
+          "end_seconds": 833.057,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46954/46954_s1_20260525_102000-111500_view7_cour258604_primary.mp4",
+          "start_seconds": 825.057,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46954/01_s2_v7.mp4",
+          "clip_sha256": "b40df9a6612ef82c6faad54b456f4d911eb00ad6c2baa39ba0b2b6012ee655a5",
+          "end_seconds": 758.562,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46954/46954_s2_20260525_111501-120500_view7_cour258605_primary.mp4",
+          "start_seconds": 750.562,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46267",
+      "omitted_clip_count": 0,
+      "report_characters": 540,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46267.txt",
+      "report_sha256": "674bf71238c0d4d18b9c39c36e471c33bb0ebb32c9bf98b79bd94b0f98089222",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46267/00_s1_v7.mp4",
+          "clip_sha256": "5e453936c3c63547216a1e6b8e1704c31ca66908c69552fb0701c9b654547aef",
+          "end_seconds": 832.677,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46267/46267_s1_20260525_082500-092000_view7_cour258180_primary.mp4",
+          "start_seconds": 824.677,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46267/01_s2_v5.mp4",
+          "clip_sha256": "164050fa3e07111f3ef2cd3a26acff9c6a6c8e499c54b3bb0bda65a56fa12cab",
+          "end_seconds": 758.321,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46267/46267_s2_20260525_092001-101000_view5_cour258181_primary.mp4",
+          "start_seconds": 750.321,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46882",
+      "omitted_clip_count": 0,
+      "report_characters": 472,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46882.txt",
+      "report_sha256": "596633da5afb8425106bacd44a210e281257f38c8c82253f77745be59328db40",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46882/00_s1_v7.mp4",
+          "clip_sha256": "68013631fd8f562c2ccb3e893fcb1677c6a87894ec33eca11c2dba64670493ac",
+          "end_seconds": 833.377,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46882/46882_s1_20260525_102000-111500_view7_cour258636_primary.mp4",
+          "start_seconds": 825.377,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46882/01_s2_v7.mp4",
+          "clip_sha256": "fb26630a4c5cf3ce437ff58372c9fc19b24b5118e780f6a09e0741e6cbe36747",
+          "end_seconds": 758.186,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46882/46882_s2_20260525_111501-120500_view7_cour258637_primary.mp4",
+          "start_seconds": 750.186,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46130",
+      "omitted_clip_count": 0,
+      "report_characters": 451,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46130.txt",
+      "report_sha256": "0a2694da6eb64016265a952f1f27660f1afbd23a1ba42c4face609d1717ab840",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46130/00_s1_v7.mp4",
+          "clip_sha256": "8861fcb6d7c16716ea94a9de91bd80a6cf5dbb35d29e99a98b6ad15e955522a5",
+          "end_seconds": 832.975,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46130/46130_s1_20260525_082500-092000_view7_cour259102_primary.mp4",
+          "start_seconds": 824.975,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46130/01_s2_v5.mp4",
+          "clip_sha256": "0fa54cf804b5232f8f3d25facbbef9286fb23872951901565de71efb82d45ff8",
+          "end_seconds": 758.224,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46130/46130_s2_20260525_092001-101000_view5_cour259103_primary.mp4",
+          "start_seconds": 750.224,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47028",
+      "omitted_clip_count": 0,
+      "report_characters": 787,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47028.txt",
+      "report_sha256": "c0488fa3a56fa2d301143936cf01b56039188d6d151a572a9de6c147a36de8a2",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47028/00_s1_v7.mp4",
+          "clip_sha256": "f00e8594429116f8c7b0c927f7eba2544d877fb9d630d80c04d4e4eb75b908bc",
+          "end_seconds": 833.191,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47028/47028_s1_20260525_102000-111500_view7_cour258528_primary.mp4",
+          "start_seconds": 825.191,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47028/01_s2_v5.mp4",
+          "clip_sha256": "86b6a8598c753ac95ce401990cf4998924fafdaab41143e44ea6f0e0b060a0dc",
+          "end_seconds": 758.219,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47028/47028_s2_20260525_111501-120500_view5_cour258529_primary.mp4",
+          "start_seconds": 750.219,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46135",
+      "omitted_clip_count": 0,
+      "report_characters": 502,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46135.txt",
+      "report_sha256": "d89e73719e8e203266fc83d3672bb8ebb7cb238db1f1ab2192da2f262bc25ee4",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46135/00_s1_v7.mp4",
+          "clip_sha256": "7d4419e3e56846ddbdc2cfab9cbe4e35742a1a720a15fe323f3a86d59f810677",
+          "end_seconds": 832.346,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46135/46135_s1_20260525_082500-092000_view7_cour258614_primary.mp4",
+          "start_seconds": 824.346,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46135/01_s2_v7.mp4",
+          "clip_sha256": "9590f439785cb78a6c04c97fd8fce6c9c3f3a86f8d0821ba18cfa713196b841c",
+          "end_seconds": 757.99,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46135/46135_s2_20260525_092001-101000_view7_cour258615_primary.mp4",
+          "start_seconds": 749.99,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46136",
+      "omitted_clip_count": 0,
+      "report_characters": 488,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46136.txt",
+      "report_sha256": "abbf3109e8f154d1d2c4f8e9ee59340e6ec5526f0615b0c47e0cdfe98940c8f8",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46136/00_s1_v5.mp4",
+          "clip_sha256": "6b5b364eb712b67b4da5c32dcf98b745a76e1d7e53f76b285b6b83202edd7158",
+          "end_seconds": 833.339,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46136/46136_s1_20260525_082500-092000_view5_cour258444_primary.mp4",
+          "start_seconds": 825.339,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46136/01_s2_v7.mp4",
+          "clip_sha256": "ba0f063580188edbeb3c4fe3ebf4b511f8c78e315140d72be99f71cd2458c165",
+          "end_seconds": 757.905,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46136/46136_s2_20260525_092001-101000_view7_cour258445_primary.mp4",
+          "start_seconds": 749.905,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46819",
+      "omitted_clip_count": 0,
+      "report_characters": 460,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46819.txt",
+      "report_sha256": "84aafad6953f0c5e47ea1ef12a3bb41ad804f899efa0a8d62aef800be402c0ed",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46819/00_s1_v7.mp4",
+          "clip_sha256": "1ab9cd3efadddef3543cc16f26bd3154afe787945681744a7497963ae7d6a018",
+          "end_seconds": 832.519,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46819/46819_s1_20260525_082500-092000_view7_cour258654_primary.mp4",
+          "start_seconds": 824.519,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46819/01_s2_v7.mp4",
+          "clip_sha256": "1cbe413bdd7ba4eb6b8b1f5229fde273a7ddc013d92ad82effb4cc3f3d847859",
+          "end_seconds": 758.462,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46819/46819_s2_20260525_092001-101000_view7_cour258655_primary.mp4",
+          "start_seconds": 750.462,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46766",
+      "omitted_clip_count": 0,
+      "report_characters": 493,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46766.txt",
+      "report_sha256": "80fd75380c15145b9078c5a7fc9acfe5a5c078ac09637158a482a433e05fe1d5",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46766/00_s1_v7.mp4",
+          "clip_sha256": "1f4bdadc9da08d1ab784a848dfe043ded88917f2cbbed5052947b16300b94e77",
+          "end_seconds": 832.356,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46766/46766_s1_20260525_082500-092000_view7_cour258738_primary.mp4",
+          "start_seconds": 824.356,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46766/01_s2_v7.mp4",
+          "clip_sha256": "7fbb313a9647e65a1491aa1ab6cf8e4b993d35cf57c5e5b2f25cefb15fc5158b",
+          "end_seconds": 758.187,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46766/46766_s2_20260525_092001-101000_view7_cour258739_primary.mp4",
+          "start_seconds": 750.187,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47479",
+      "omitted_clip_count": 0,
+      "report_characters": 424,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47479.txt",
+      "report_sha256": "f872a2fe4006dbb070cd973b1a998e03c2d87a78c965c171299428bdfc2d6ce0",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47479/00_s1_v7.mp4",
+          "clip_sha256": "394ab99b268e0a75e011753de7adc4605075e7e279503e6dbc0015476507bd3f",
+          "end_seconds": 832.557,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47479/47479_s1_20260525_082500-092000_view7_cour258570_primary.mp4",
+          "start_seconds": 824.557,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47479/01_s2_v5.mp4",
+          "clip_sha256": "9fb8bc617119caba5b90d0096d8362f5413fcef13529b536dcbbf156333ab6ac",
+          "end_seconds": 758.12,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47479/47479_s2_20260525_092001-101000_view5_cour258571_primary.mp4",
+          "start_seconds": 750.12,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46843",
+      "omitted_clip_count": 0,
+      "report_characters": 875,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46843.txt",
+      "report_sha256": "f39c4e515fdfd98b0687c6863f99e662d5d13bf04d6c702347bddf2b407ad3f1",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46843/00_s1_v7.mp4",
+          "clip_sha256": "74e66b0bbfe365d4e006eb3f3e53518e4a98a77e84015ce2f4319704f36f1fec",
+          "end_seconds": 832.527,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46843/46843_s1_20260525_082500-092000_view7_cour258720_primary.mp4",
+          "start_seconds": 824.527,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46843/01_s2_v7.mp4",
+          "clip_sha256": "1630173f3b5b18169492f6616ace60d8b1588644a1dc38471c169771f3f9837a",
+          "end_seconds": 757.987,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46843/46843_s2_20260525_092001-101000_view7_cour258721_primary.mp4",
+          "start_seconds": 749.987,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47033",
+      "omitted_clip_count": 0,
+      "report_characters": 573,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47033.txt",
+      "report_sha256": "cd72bfb2c71c698aa5941fd1b58b4d0441874611d34ed9e0bd03eaa33fe37a1b",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47033/00_s1_v7.mp4",
+          "clip_sha256": "97a167f0d2cfca44ac6cb351fd481943023c0433d63ad482f387b409c422155e",
+          "end_seconds": 832.739,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47033/47033_s1_20260525_082500-092000_view7_cour258562_primary.mp4",
+          "start_seconds": 824.739,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47033/01_s2_v7.mp4",
+          "clip_sha256": "aa77c4702114e3988894ad4354bd6c06af64827d219612034ca3f4cfb2a99698",
+          "end_seconds": 758.473,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47033/47033_s2_20260525_092001-101000_view7_cour258563_primary.mp4",
+          "start_seconds": 750.473,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46669",
+      "omitted_clip_count": 0,
+      "report_characters": 425,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46669.txt",
+      "report_sha256": "62a6f3e0ff237d12e093ccb2c3d7ce74ef9bc47f1f519a551b61fc8c279a345f",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46669/00_s1_v7.mp4",
+          "clip_sha256": "80f2d2c0445856b6f96909ea79747e7cfb8b815a060a40c2cc1fa9e950a4a1c7",
+          "end_seconds": 833.573,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46669/46669_s1_20260525_102000-111500_view7_cour258266_primary.mp4",
+          "start_seconds": 825.573,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46669/01_s2_v7.mp4",
+          "clip_sha256": "5ba2be2e081a508ac28773a293f9620f1cc8fb76235bd3335c3e2474fb7e71ae",
+          "end_seconds": 758.86,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46669/46669_s2_20260525_111501-120500_view7_cour258267_primary.mp4",
+          "start_seconds": 750.86,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46770",
+      "omitted_clip_count": 0,
+      "report_characters": 502,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46770.txt",
+      "report_sha256": "c60db922e0bc3f2151136161bd1be1683ba027730ad27c624ef2adb3d1e36580",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46770/00_s1_v7.mp4",
+          "clip_sha256": "6765577f5e89afa915b49090a3a81147ed9902a4177079f1c4dda294768c68f3",
+          "end_seconds": 832.602,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46770/46770_s1_20260525_082500-092000_view7_cour258942_primary.mp4",
+          "start_seconds": 824.602,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46770/01_s2_v7.mp4",
+          "clip_sha256": "1d18455b8be8305556611749c6ea88d62c483c1f44d959855d6362d2a3a60edc",
+          "end_seconds": 758.03,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46770/46770_s2_20260525_092001-101000_view7_cour258943_primary.mp4",
+          "start_seconds": 750.03,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46154",
+      "omitted_clip_count": 0,
+      "report_characters": 324,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46154.txt",
+      "report_sha256": "4c6fe317f53ea81c6fc9b9d247bd40cdfdd45bde8f5bf59c13b43da00ddf3f11",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46154/00_s1_v7.mp4",
+          "clip_sha256": "70456cfb5acc6ea284110093e12dae5e6c2740428fdfe65e447e7f36502fcbf1",
+          "end_seconds": 833.056,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46154/46154_s1_20260525_082500-092000_view7_cour258292_primary.mp4",
+          "start_seconds": 825.056,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46154/01_s2_v5.mp4",
+          "clip_sha256": "e7dcca1d1c0285ad06397b4fa778894c926d4e5f7d2ad1a03616d9da5a3e6257",
+          "end_seconds": 757.991,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46154/46154_s2_20260525_092001-101000_view5_cour258293_primary.mp4",
+          "start_seconds": 749.991,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "38364",
+      "omitted_clip_count": 0,
+      "report_characters": 217,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/38364.txt",
+      "report_sha256": "aa50ddb670ce61cea17d07127c94c96b0bdab0931260d349e9a1b5e78655fb54",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/38364/00_s1_v7.mp4",
+          "clip_sha256": "d994ea557b1d6ebe80955ebed6eba1a4bbafdfabf0bf52012c87f19724b910fe",
+          "end_seconds": 833.154,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/38364/38364_s1_20260521_082500-092000_view7_cour256113_primary.mp4",
+          "start_seconds": 825.154,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/38364/01_s2_v7.mp4",
+          "clip_sha256": "f46adfdb4974437a5359a0c5e432eec6b18bddefe8e6caf47f63d1a98410a336",
+          "end_seconds": 758.146,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/38364/38364_s2_20260521_092001-101000_view7_cour256114_primary.mp4",
+          "start_seconds": 750.146,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "45447",
+      "omitted_clip_count": 0,
+      "report_characters": 411,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/45447.txt",
+      "report_sha256": "4dc9c5f541f44eb994a8a6789ca0066ee86b11ab739db8f8139010443b6bf2bb",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45447/00_s1_v7.mp4",
+          "clip_sha256": "637faa59febb5bcafd89f1030f443d6bd5453b3741cfcf4e73a9a62fde1cd9c6",
+          "end_seconds": 832.459,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45447/45447_s1_20260525_082500-092000_view7_cour259146_primary.mp4",
+          "start_seconds": 824.459,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45447/01_s2_v7.mp4",
+          "clip_sha256": "e7faae45f96a85884d13a7f61665282eb63f02b8ea410882c345f7c8bd643f7f",
+          "end_seconds": 758.331,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45447/45447_s2_20260525_092001-101000_view7_cour259147_primary.mp4",
+          "start_seconds": 750.331,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46784",
+      "omitted_clip_count": 0,
+      "report_characters": 748,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46784.txt",
+      "report_sha256": "722d045a9c9bf827184697c1e2830b118231b902a7cffbbe847d24b43b311dcf",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46784/00_s1_v5.mp4",
+          "clip_sha256": "51a302a01a44be1809f4a22d40cb837154fb65ac4b903d52c10be7050ac6309c",
+          "end_seconds": 833.242,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46784/46784_s1_20260525_082500-092000_view5_cour258762_primary.mp4",
+          "start_seconds": 825.242,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46784/01_s2_v1.mp4",
+          "clip_sha256": "b76432acf44eca2b15e4c8efc18966e15a3979cf607b406ac32210ff45dddeb3",
+          "end_seconds": 758.741,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46784/46784_s2_20260525_092001-101000_view1_cour258763_primary.mp4",
+          "start_seconds": 750.741,
+          "view": 1
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46150",
+      "omitted_clip_count": 0,
+      "report_characters": 466,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46150.txt",
+      "report_sha256": "908acdd2dee88bd19bbdde4cb31b71033907c744105e5fa4d1c186b343bb167b",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46150/00_s1_v1.mp4",
+          "clip_sha256": "30ee2ebe913bfc1c5204b6c5dcc8ef7d8c95d9d6ef06fbadc3bdf5e11a88a07d",
+          "end_seconds": 832.597,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46150/46150_s1_20260525_082500-092000_view1_cour258596_primary.mp4",
+          "start_seconds": 824.597,
+          "view": 1
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46150/01_s2_v5.mp4",
+          "clip_sha256": "69c48690c0768654cbaf21f18c06d3f3ef0b0312ba4ceb89b5323a8c735e72f5",
+          "end_seconds": 757.683,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46150/46150_s2_20260525_092001-101000_view5_cour258597_primary.mp4",
+          "start_seconds": 749.683,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46970",
+      "omitted_clip_count": 0,
+      "report_characters": 410,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46970.txt",
+      "report_sha256": "3167facc2617ba29f06e23670966190a4baf66933df2f738728932e5a61e24d0",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46970/00_s1_v7.mp4",
+          "clip_sha256": "fce7ab7428d13ef9ec25d27b8a6552796ba1f015576c52302f32ce19b0afb5c0",
+          "end_seconds": 833.532,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46970/46970_s1_20260525_102000-111500_view7_cour259112_primary.mp4",
+          "start_seconds": 825.532,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46970/01_s2_v5.mp4",
+          "clip_sha256": "86948f77e4aef64903ba2a0133d9edb6a024612355dff4ccd846ea55d1384575",
+          "end_seconds": 757.982,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46970/46970_s2_20260525_111501-120500_view5_cour259113_primary.mp4",
+          "start_seconds": 749.982,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46167",
+      "omitted_clip_count": 0,
+      "report_characters": 451,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46167.txt",
+      "report_sha256": "57b1751c76e5e1732dea5172b258061d363d0e8a58e3cf188342816ccdf44b76",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46167/00_s1_v7.mp4",
+          "clip_sha256": "d7a85503c480a4265811f02f71f87499707436069aa1d300ada8682fd5cff702",
+          "end_seconds": 832.401,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46167/46167_s1_20260525_082500-092000_view7_cour258336_primary.mp4",
+          "start_seconds": 824.401,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46167/01_s2_v5.mp4",
+          "clip_sha256": "17d8e163217483eb45629c1656192bd8f99569703800eb7f899dee675ada0086",
+          "end_seconds": 757.865,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46167/46167_s2_20260525_092001-101000_view5_cour258337_primary.mp4",
+          "start_seconds": 749.865,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "39551",
+      "omitted_clip_count": 0,
+      "report_characters": 481,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/39551.txt",
+      "report_sha256": "647bdecf834d6e42ebb5d3a5ce197384f300c69618f65c9876d5767cfde24b1e",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/39551/00_s1_v7.mp4",
+          "clip_sha256": "65dcbd177ec871fe42acd24b07dad6069c55668504211bb06b4466ca1746c829",
+          "end_seconds": 832.954,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/39551/39551_s1_20260521_082500-092000_view7_cour256459_primary.mp4",
+          "start_seconds": 824.954,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/39551/01_s2_v7.mp4",
+          "clip_sha256": "36cbf48ac037971002250e60e0f37cbb9001617a8527a450fa5f9b4f8852ef4b",
+          "end_seconds": 757.779,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/39551/39551_s2_20260521_092001-101000_view7_cour256460_primary.mp4",
+          "start_seconds": 749.779,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "42784",
+      "omitted_clip_count": 0,
+      "report_characters": 404,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/42784.txt",
+      "report_sha256": "b5c4e3c6d55cd1c7541bc7fa1cbe78c6bea20a9096f64cb6f85d01a6be6e171e",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/42784/00_s1_v7.mp4",
+          "clip_sha256": "6822ade8433107ca87b8ddd2d0b032c29c99ace7b44ef1acf6ce40ac75fcfe1e",
+          "end_seconds": 833.106,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/42784/42784_s1_20260525_082500-092000_view7_cour258350_primary.mp4",
+          "start_seconds": 825.106,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/42784/01_s2_v7.mp4",
+          "clip_sha256": "66a4e6f1502d30f2d29917f1aec7860bc2978f4efbaeb84704bec622b30b356f",
+          "end_seconds": 757.606,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/42784/42784_s2_20260525_092001-101000_view7_cour258351_primary.mp4",
+          "start_seconds": 749.606,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46674",
+      "omitted_clip_count": 0,
+      "report_characters": 560,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46674.txt",
+      "report_sha256": "943d8dcb7490e2a9fafe52ede1c510a62a16b19613de4753578f2730d7bb9a6e",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46674/00_s1_v7.mp4",
+          "clip_sha256": "56ccbdbf59da57dc17f78b0a08e6e1b8ea8d77755f95ea6081db55a193c52ef0",
+          "end_seconds": 833.372,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46674/46674_s1_20260525_102000-111500_view7_cour258926_primary.mp4",
+          "start_seconds": 825.372,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46674/01_s2_v7.mp4",
+          "clip_sha256": "04740317318d7aadad6c5cf9a42919b0ca97f5a53abe84f2efa10cf7eee2128a",
+          "end_seconds": 758.2,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46674/46674_s2_20260525_111501-120500_view7_cour258927_primary.mp4",
+          "start_seconds": 750.2,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47231",
+      "omitted_clip_count": 0,
+      "report_characters": 564,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47231.txt",
+      "report_sha256": "25dcc8917dbe788050d82b999d3f6721e21265bbf1e53e47387925626f098700",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47231/00_s1_v7.mp4",
+          "clip_sha256": "c56706a6de14eaa2f770f4aaa27d8d495be8cb4c1d1f922df7c70f7b8f1a3941",
+          "end_seconds": 833.253,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47231/47231_s1_20260525_082500-092000_view7_cour258748_primary.mp4",
+          "start_seconds": 825.253,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47231/01_s2_v7.mp4",
+          "clip_sha256": "2b1bc0b0db51094554f9132d8969c2f7ef8d8b8107f8222bdb7daba2797b14e3",
+          "end_seconds": 758.018,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47231/47231_s2_20260525_092001-101000_view7_cour258749_primary.mp4",
+          "start_seconds": 750.018,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "44151",
+      "omitted_clip_count": 0,
+      "report_characters": 603,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/44151.txt",
+      "report_sha256": "0258af9a25c89aabcf75126ef6d5e075d9f1da225fdf3828dff73f489aa3dfa9",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/44151/00_s1_v7.mp4",
+          "clip_sha256": "89beb1666e4ed7d2f6d49ce0ca48017c8973f28e13e2d1b239c408708d7dd268",
+          "end_seconds": 832.56,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/44151/44151_s1_20260525_082500-092000_view7_cour258782_primary.mp4",
+          "start_seconds": 824.56,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/44151/01_s2_v7.mp4",
+          "clip_sha256": "c577b04588b45464a7e7df6121bdbed8c7684a975c59f3dac17863bb3b2f6860",
+          "end_seconds": 757.936,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/44151/44151_s2_20260525_092001-101000_view7_cour258783_primary.mp4",
+          "start_seconds": 749.936,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46760",
+      "omitted_clip_count": 0,
+      "report_characters": 487,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46760.txt",
+      "report_sha256": "c7f779cbea3d355224e611fcdf4395e2f38f6fc1afb40f9b20506b5d903309c2",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46760/00_s1_v7.mp4",
+          "clip_sha256": "d4281ee05a11457503cfa64af1c32c97b801ab8fd8e034523451179d971e23a7",
+          "end_seconds": 833.613,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46760/46760_s1_20260525_102000-111500_view7_cour258226_primary.mp4",
+          "start_seconds": 825.613,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46760/01_s2_v7.mp4",
+          "clip_sha256": "0cd265fae454dddebcee327354a90ed5a32415f9a4b15f5c62bbc461d21b3434",
+          "end_seconds": 758.066,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46760/46760_s2_20260525_111501-120500_view7_cour258227_primary.mp4",
+          "start_seconds": 750.066,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46145",
+      "omitted_clip_count": 0,
+      "report_characters": 437,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46145.txt",
+      "report_sha256": "cc2eb72fd9eadd9a84775c0fb6fbd174a1a912f7a8831f9662c88fa51e593b42",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46145/00_s1_v7.mp4",
+          "clip_sha256": "a7e809b76d2285072087930d588b8d6c8ecb8cb2f0c258b61bc020aaac416262",
+          "end_seconds": 832.814,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46145/46145_s1_20260525_082500-092000_view7_cour258308_primary.mp4",
+          "start_seconds": 824.814,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46145/01_s2_v7.mp4",
+          "clip_sha256": "5d418904b176f567df6ed4b006ae0e83bcc91a618f1f384302e1385916d4a928",
+          "end_seconds": 757.949,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46145/46145_s2_20260525_092001-101000_view7_cour258309_primary.mp4",
+          "start_seconds": 749.949,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46986",
+      "omitted_clip_count": 0,
+      "report_characters": 520,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46986.txt",
+      "report_sha256": "109dfaae2410c758ce2efad2c931dd0463f8976960e850fd0a97a27bbe4009f1",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46986/00_s1_v5.mp4",
+          "clip_sha256": "9dc83b169515ddadd98228d49fb80e0cdf79c89ab7d9ac624d38a26bf480bac0",
+          "end_seconds": 832.424,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46986/46986_s1_20260525_102000-111500_view5_cour258634_primary.mp4",
+          "start_seconds": 824.424,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46986/01_s2_v7.mp4",
+          "clip_sha256": "74712063256fe64601107c5450670f2837b1c9b3d96d608aa2aa4dc95a960a55",
+          "end_seconds": 758.335,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46986/46986_s2_20260525_111501-120500_view7_cour258635_primary.mp4",
+          "start_seconds": 750.335,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47043",
+      "omitted_clip_count": 0,
+      "report_characters": 608,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47043.txt",
+      "report_sha256": "7b8956746c69fdd55f38cc29dccafd180bc3fa00615d4c66f46ed595da3f449e",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47043/00_s1_v5.mp4",
+          "clip_sha256": "80e7eaf7fdf31318bb4bcd56519aa29a9b65291e271dc79a2856d12cda451629",
+          "end_seconds": 832.477,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47043/47043_s1_20260525_102000-111500_view5_cour258498_primary.mp4",
+          "start_seconds": 824.477,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47043/01_s2_v7.mp4",
+          "clip_sha256": "fc4428a18fb8550da94b4128774aba86ff94abf1f473ccb87ec7cc8fda9ae114",
+          "end_seconds": 758.054,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47043/47043_s2_20260525_111501-120500_view7_cour258499_primary.mp4",
+          "start_seconds": 750.054,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "44178",
+      "omitted_clip_count": 0,
+      "report_characters": 727,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/44178.txt",
+      "report_sha256": "473d235218c4e8a4f8c39b076c52a4aae5a45f9389e1b6e09e76e75b592a0b7f",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/44178/00_s1_v5.mp4",
+          "clip_sha256": "d401f53029c400d74b101139652a6cee8f1e3bb62f58fc56a9ebb58f1cd0d513",
+          "end_seconds": 833.231,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/44178/44178_s1_20260525_082500-092000_view5_cour258824_primary.mp4",
+          "start_seconds": 825.231,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/44178/01_s2_v7.mp4",
+          "clip_sha256": "17494a40679d9276dad651e2a3aa3b3190be2338d409b5b91b0c7820e1a10735",
+          "end_seconds": 757.867,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/44178/44178_s2_20260525_092001-101000_view7_cour258825_primary.mp4",
+          "start_seconds": 749.867,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "36986",
+      "omitted_clip_count": 0,
+      "report_characters": 596,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/36986.txt",
+      "report_sha256": "b12ae227d846403b8cf779c7b582ae131d622d2bc734b08a8260232b5971382b",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/36986/00_s1_v7.mp4",
+          "clip_sha256": "872208227b6bf9161fc0f4b83faa20c172f8db0c71c6348ec83a6b7b0b8489eb",
+          "end_seconds": 832.753,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/36986/36986_s1_20260521_082500-092000_view7_cour256505_primary.mp4",
+          "start_seconds": 824.753,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/36986/01_s2_v7.mp4",
+          "clip_sha256": "0e28b0a7f5b2ce0e835ff1af2fd22904c51e3479e583146b7ff7266c6be869e6",
+          "end_seconds": 758.415,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/36986/36986_s2_20260521_092001-101000_view7_cour256506_primary.mp4",
+          "start_seconds": 750.415,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47432",
+      "omitted_clip_count": 0,
+      "report_characters": 508,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47432.txt",
+      "report_sha256": "29262bbe26bded93f7d470d91babad716a44d0fb55f3e410990b145a6f21fa13",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47432/00_s1_v5.mp4",
+          "clip_sha256": "cdc129771934342411f7c36ecb8d28a6aaf0ec6b853371b7e1a1b4fd9836a03d",
+          "end_seconds": 832.656,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47432/47432_s1_20260525_082500-092000_view5_cour258106_primary.mp4",
+          "start_seconds": 824.656,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47432/01_s2_v7.mp4",
+          "clip_sha256": "3f5f17af853d18e82175dd745c7c6ca0d18e36ca1f1fa540778ad1c4ff5a8955",
+          "end_seconds": 757.866,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47432/47432_s2_20260525_092001-101000_view7_cour258107_primary.mp4",
+          "start_seconds": 749.866,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46523",
+      "omitted_clip_count": 0,
+      "report_characters": 578,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46523.txt",
+      "report_sha256": "a0482bfd3617ce752d9ac2627ece8de1a2695415ecedd539c8274d0268917342",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46523/00_s1_v7.mp4",
+          "clip_sha256": "c0d3b8641127e0370852fb633e939c57e547c82b372e050481a8c42d71fd3085",
+          "end_seconds": 833.327,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46523/46523_s1_20260525_102000-111500_view7_cour258696_primary.mp4",
+          "start_seconds": 825.327,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46523/01_s2_v7.mp4",
+          "clip_sha256": "a3b549178c8fe03f3fb9c60316b87ff3f64957d02c0ce749914863075cdac15b",
+          "end_seconds": 758.092,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46523/46523_s2_20260525_111501-120500_view7_cour258697_primary.mp4",
+          "start_seconds": 750.092,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47463",
+      "omitted_clip_count": 0,
+      "report_characters": 591,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47463.txt",
+      "report_sha256": "7f0774660ae677c987bdcd77236ba8351d78d994f9642caaf57420e67ec8c89c",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47463/00_s1_v7.mp4",
+          "clip_sha256": "864ad51a923f484b79f7504ac751c322d57e86cd00d796cb288ea745d63f29b5",
+          "end_seconds": 832.44,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47463/47463_s1_20260525_082500-092000_view7_cour258162_primary.mp4",
+          "start_seconds": 824.44,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47463/01_s2_v7.mp4",
+          "clip_sha256": "1278ebce5e0711a8044cb3e573fc86893ffe65b1627ee0c488c9b1dc5df03910",
+          "end_seconds": 757.836,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47463/47463_s2_20260525_092001-101000_view7_cour258163_primary.mp4",
+          "start_seconds": 749.836,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46983",
+      "omitted_clip_count": 0,
+      "report_characters": 1058,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46983.txt",
+      "report_sha256": "7790c5e6a7cd114ac2a7ffc8d7de61e9ef43f0e234faa13d03c0618d6f0a304e",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46983/00_s1_v7.mp4",
+          "clip_sha256": "419696fd4990623efb882e0f3a27868f341c9c3909a6290e1363c4cd1d57a1ec",
+          "end_seconds": 833.0,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46983/46983_s1_20260525_082500-092000_view7_cour258726_primary.mp4",
+          "start_seconds": 825.0,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46983/01_s2_v5.mp4",
+          "clip_sha256": "f2e0b51579b0834fece488eb33655b9db47e9b66bf93ec6062b5650e54c1c24e",
+          "end_seconds": 758.148,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46983/46983_s2_20260525_092001-101000_view5_cour258727_primary.mp4",
+          "start_seconds": 750.148,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46283",
+      "omitted_clip_count": 0,
+      "report_characters": 590,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46283.txt",
+      "report_sha256": "2ccf5fb8bb60bdad2fdfd1f5ebf4e7adc30883896d64967e83afda70d11ee910",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46283/00_s1_v7.mp4",
+          "clip_sha256": "ef16556361afc6fc1e5f0920a5a77d8f9957f67ea96845564d03fc21ba601f71",
+          "end_seconds": 832.502,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46283/46283_s1_20260525_082500-092000_view7_cour258692_primary.mp4",
+          "start_seconds": 824.502,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46283/01_s2_v7.mp4",
+          "clip_sha256": "f701b4c8b9f25359f9c39ee8982a0a1888b16506fd6bbd8ecf37001ea5f7efee",
+          "end_seconds": 758.078,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46283/46283_s2_20260525_092001-101000_view7_cour258693_primary.mp4",
+          "start_seconds": 750.078,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46467",
+      "omitted_clip_count": 0,
+      "report_characters": 568,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46467.txt",
+      "report_sha256": "0594cea0b6a2863b40d6027c5acd7d7b54ae7134123206f02ba78075c0c42d9f",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46467/00_s1_v5.mp4",
+          "clip_sha256": "affd92b0166171315ad698350ca07eca1d7dd0f44b52eb53bf4c06c07b22ab68",
+          "end_seconds": 832.676,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46467/46467_s1_20260525_102000-111500_view5_cour258554_primary.mp4",
+          "start_seconds": 824.676,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46467/01_s2_v7.mp4",
+          "clip_sha256": "d07fa0c189e270c1519b6ff10e3360bd6e387980ca8bbfb7dc8ad06bc3c86e84",
+          "end_seconds": 758.726,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46467/46467_s2_20260525_111501-120500_view7_cour258555_primary.mp4",
+          "start_seconds": 750.726,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46683",
+      "omitted_clip_count": 0,
+      "report_characters": 637,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46683.txt",
+      "report_sha256": "c5394b93af0d2d5237eb166fbcae0e11a840c74a2f7b03ae511289b4b1eb9251",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46683/00_s1_v7.mp4",
+          "clip_sha256": "b8d5ffc1da845b9f7fb462398c5a3afe734d1d55e6816ff118ba8af0b59fe01f",
+          "end_seconds": 833.293,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46683/46683_s1_20260525_102000-111500_view7_cour258924_primary.mp4",
+          "start_seconds": 825.293,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46683/01_s2_v5.mp4",
+          "clip_sha256": "71b629207d7c2149d4641132b403da5b392746c4132d0e27be5c843c524867a3",
+          "end_seconds": 758.162,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46683/46683_s2_20260525_111501-120500_view5_cour258925_primary.mp4",
+          "start_seconds": 750.162,
+          "view": 5
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46658",
+      "omitted_clip_count": 0,
+      "report_characters": 775,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46658.txt",
+      "report_sha256": "87db8595bcd047d6a1b066f1cb9d5590bb4fb626b3cc1767bf480db1b9330d6d",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46658/00_s1_v7.mp4",
+          "clip_sha256": "cd8e84612e95c86ca6ee85d30e675ac2d766b18c06ca2dbe55096349b0e558a0",
+          "end_seconds": 833.105,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46658/46658_s1_20260525_102000-111500_view7_cour258936_primary.mp4",
+          "start_seconds": 825.105,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46658/01_s2_v7.mp4",
+          "clip_sha256": "4ff882e4cfb9ca43d4977992085c637dde123429f3394ea46d2e033773eb8209",
+          "end_seconds": 758.093,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46658/46658_s2_20260525_111501-120500_view7_cour258937_primary.mp4",
+          "start_seconds": 750.093,
+          "view": 7
+        }
+      ],
+      "split": "train"
+    }
+  ],
+  "val": [
+    {
+      "available_clip_count": 2,
+      "course_id": "46707",
+      "omitted_clip_count": 0,
+      "report_characters": 352,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46707.txt",
+      "report_sha256": "4c3f4101206cb69f655268a83cb02e8d11337957cb2628830cd757acf00034be",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46707/00_s1_v5.mp4",
+          "clip_sha256": "b40d411a4fca18646fb6275bc94462c292d1d3636ef9e58614fae65627b9639b",
+          "end_seconds": 833.246,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46707/46707_s1_20260525_102000-111500_view5_cour258978_primary.mp4",
+          "start_seconds": 825.246,
+          "view": 5
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46707/01_s2_v7.mp4",
+          "clip_sha256": "709cec32758d20d779d78dc27a7099ced1825a3778be908bd23efc0d1d5c769c",
+          "end_seconds": 757.517,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46707/46707_s2_20260525_111501-120500_view7_cour258979_primary.mp4",
+          "start_seconds": 749.517,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "45277",
+      "omitted_clip_count": 0,
+      "report_characters": 1095,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/45277.txt",
+      "report_sha256": "a5b66847c753e52623cb6698161138ec3afb55b57b2a2daa3278e16f1ead63b7",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45277/00_s1_v7.mp4",
+          "clip_sha256": "4be5b46fdd470b6ee7d48daca92e8e484193fad51c4a4c75c60590408c3a5b1f",
+          "end_seconds": 832.379,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45277/45277_s1_20260525_082500-092000_view7_cour258476_primary.mp4",
+          "start_seconds": 824.379,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45277/01_s2_v7.mp4",
+          "clip_sha256": "388fcd1f4c096cc8159b523845be499b8cf0c7d112a1d2815f354183252774cf",
+          "end_seconds": 758.359,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45277/45277_s2_20260525_092001-101000_view7_cour258477_primary.mp4",
+          "start_seconds": 750.359,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47500",
+      "omitted_clip_count": 0,
+      "report_characters": 572,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47500.txt",
+      "report_sha256": "e00dac8f216fba05120f083d1553e458db320052d7506557eed555a68337d0d7",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47500/00_s1_v7.mp4",
+          "clip_sha256": "af2ba9d8a18d4a216c725da8b160154afe8cc0588c6ce3fb96d2c26e31ed2b7f",
+          "end_seconds": 832.16,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47500/47500_s1_20260525_082500-092000_view7_cour258640_primary.mp4",
+          "start_seconds": 824.16,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47500/01_s2_v5.mp4",
+          "clip_sha256": "d1a3152dc00d95e652f0f2b868a243b0113d4492c72876860b13e212ea9645da",
+          "end_seconds": 757.671,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47500/47500_s2_20260525_092001-101000_view5_cour258641_primary.mp4",
+          "start_seconds": 749.671,
+          "view": 5
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "38248",
+      "omitted_clip_count": 0,
+      "report_characters": 565,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/38248.txt",
+      "report_sha256": "64769a47518ed9062088b07277223aec6714a49385b405dfd0de3c00a30e79b2",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/38248/00_s1_v7.mp4",
+          "clip_sha256": "fd43fbacff5d10f01c086a2b0876a23916da55b6b726220683d7afbeb56566ba",
+          "end_seconds": 832.954,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/38248/38248_s1_20260521_082500-092000_view7_cour255723_primary.mp4",
+          "start_seconds": 824.954,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/38248/01_s2_v7.mp4",
+          "clip_sha256": "c564a3edf635ade6c335fff051c016de688b2850c1408d66198da88652056cd9",
+          "end_seconds": 758.215,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/38248/38248_s2_20260521_092001-101000_view7_cour255724_primary.mp4",
+          "start_seconds": 750.215,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46613",
+      "omitted_clip_count": 0,
+      "report_characters": 500,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46613.txt",
+      "report_sha256": "fdfc4c6ceb9b6d41a390df704036127ee37b372140afffb1a0989669b511660d",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46613/00_s1_v7.mp4",
+          "clip_sha256": "b98810c231590beb3bcec469f5c71a7bd3b78bee70e164caabb306d498705303",
+          "end_seconds": 832.913,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46613/46613_s1_20260525_102000-111500_view7_cour258410_primary.mp4",
+          "start_seconds": 824.913,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46613/01_s2_v7.mp4",
+          "clip_sha256": "1d77278d9b81a57d26592768f865fa5325da4346f2a5f1faf4771eaf317bfd10",
+          "end_seconds": 758.115,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46613/46613_s2_20260525_111501-120500_view7_cour258411_primary.mp4",
+          "start_seconds": 750.115,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46407",
+      "omitted_clip_count": 0,
+      "report_characters": 835,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46407.txt",
+      "report_sha256": "d4f2452126440b98a44be7318ecf0455b18c6f0734be6f16dc9b54982d0b070b",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46407/00_s1_v7.mp4",
+          "clip_sha256": "dd14219721d72595aec371f5cdeb46abdee1902af50fdfe67e649c8e62751ba6",
+          "end_seconds": 833.206,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46407/46407_s1_20260525_082500-092000_view7_cour258208_primary.mp4",
+          "start_seconds": 825.206,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46407/01_s2_v7.mp4",
+          "clip_sha256": "5f8200bcba1d190ef9fccc4a0094d0f82a778c2c6a122e19906f4eab5633b8e1",
+          "end_seconds": 758.233,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46407/46407_s2_20260525_092001-101000_view7_cour258209_primary.mp4",
+          "start_seconds": 750.233,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47518",
+      "omitted_clip_count": 0,
+      "report_characters": 834,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47518.txt",
+      "report_sha256": "2f30f435adb5e69979151bd113c5336a91f007a841b3fdbc2cb6c82e44880b7b",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47518/00_s1_v7.mp4",
+          "clip_sha256": "1acb3a74e223778dafbfad68183041da3f61af11a2cbcd62dc8f5ced23830b7c",
+          "end_seconds": 832.833,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47518/47518_s1_20260525_082500-092000_view7_cour258908_primary.mp4",
+          "start_seconds": 824.833,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47518/01_s2_v7.mp4",
+          "clip_sha256": "ff7ea4a0380e020a4de10dc867dcac73bf1893ebdde5e4700d096e461acf5e8e",
+          "end_seconds": 757.789,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47518/47518_s2_20260525_092001-101000_view7_cour258909_primary.mp4",
+          "start_seconds": 749.789,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "46352",
+      "omitted_clip_count": 0,
+      "report_characters": 557,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/46352.txt",
+      "report_sha256": "d96025216587269b11663e417067f8fef24f79799a8cbc36db25a41cff09ab2d",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46352/00_s1_v7.mp4",
+          "clip_sha256": "08a37a98ee95fbca16b5131bc241a353bc28b9fb05ff1f23b5bafd7c07bc27ac",
+          "end_seconds": 832.501,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46352/46352_s1_20260525_082500-092000_view7_cour258708_primary.mp4",
+          "start_seconds": 824.501,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/46352/01_s2_v7.mp4",
+          "clip_sha256": "055b51b4572a879674ad339f871c0367ee20bf50510e64c8850e10abb10e4412",
+          "end_seconds": 757.914,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/46352/46352_s2_20260525_092001-101000_view7_cour258709_primary.mp4",
+          "start_seconds": 749.914,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47219",
+      "omitted_clip_count": 0,
+      "report_characters": 516,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47219.txt",
+      "report_sha256": "4bd0567712be5f98e1534b60607ddf10098e373b6039654360fc0a263e4ae99c",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47219/00_s1_v7.mp4",
+          "clip_sha256": "e2bc734d81d0dc593bc29e0b557a3ead5111961ca6a3663f465a9387b2db64a4",
+          "end_seconds": 832.384,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47219/47219_s1_20260525_082500-092000_view7_cour258150_primary.mp4",
+          "start_seconds": 824.384,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47219/01_s2_v7.mp4",
+          "clip_sha256": "bc13d6608ffeb64acd6d3457d6b565c40a910392c5441beacc5c60c928002719",
+          "end_seconds": 758.302,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47219/47219_s2_20260525_092001-101000_view7_cour258151_primary.mp4",
+          "start_seconds": 750.302,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    },
+    {
+      "available_clip_count": 2,
+      "course_id": "47506",
+      "omitted_clip_count": 0,
+      "report_characters": 531,
+      "report_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/reports/47506.txt",
+      "report_sha256": "a76c4657903136890d9011a98e5ec0b0315fbd006019ceb72a687480254bbaaf",
+      "selected_clips": [
+        {
+          "clip_index": 0,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47506/00_s1_v7.mp4",
+          "clip_sha256": "4d8d30511c3292686cce62f2d9b927b5acb1757179817453131ec174d47d3d98",
+          "end_seconds": 832.908,
+          "session": 1,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47506/47506_s1_20260525_082500-092000_view7_cour258658_primary.mp4",
+          "start_seconds": 824.908,
+          "view": 7
+        },
+        {
+          "clip_index": 1,
+          "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47506/01_s2_v7.mp4",
+          "clip_sha256": "1f567cc9104822affcb0574dffe725802c3e048e74330efa9154edf11da3c88e",
+          "end_seconds": 758.431,
+          "session": 2,
+          "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47506/47506_s2_20260525_092001-101000_view7_cour258659_primary.mp4",
+          "start_seconds": 750.431,
+          "view": 7
+        }
+      ],
+      "split": "val"
+    }
+  ]
+}

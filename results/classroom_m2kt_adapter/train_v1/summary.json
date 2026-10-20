@@ -1,0 +1,13 @@
+{
+  "baseline_val_loss": 2.4124471935066016,
+  "best_epoch": 4,
+  "best_val_loss": 2.411564376148631,
+  "checkpoint": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/results/classroom_m2kt_adapter/train_v1/best_adapter.pt",
+  "checkpoint_sha256": "da3b2b4a05fc0039e5f6d92b555c38b079808bc74e301ee8c4ed6ed0f566e03e",
+  "epochs_completed": 5,
+  "improves_val_loss": true,
+  "optimizer_steps": 70,
+  "smoke": false,
+  "train_course_count": 56,
+  "val_course_count": 10
+}

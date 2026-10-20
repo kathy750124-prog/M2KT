@@ -17,7 +17,7 @@ flowchart LR
 
 记忆模块代码见 [classroom_m2kt_adapter.py](classroom_m2kt_adapter.py)。它将 2048 维音视频特征投影到 256 维，使用 16 个记忆槽读取特征，再以门控残差写回音视频 token。共有 1,585,409 个可训练参数。它借鉴原 M2KT 的可学习记忆增强特征思路；没有使用原医学 LAMRG 网络、医学权重或手工督导规则。当前所谓训练标签是**原始中文报告全文**，没有单独的课堂事件分类标签。
 
-## 本地模型与数据
+## 模型与数据
 
 | 内容 | 位置 |
 | --- | --- |
@@ -29,7 +29,7 @@ flowchart LR
 | 训练缓存 | `results/classroom_m2kt_adapter/features/`、`results/classroom_m2kt_adapter/targets/` |
 | 当前单段验证报告 | `results/classroom_m2kt_adapter/val_single_paragraph/` |
 
-原始视频是重建音视频片段的数据来源，未参与此次清理。上表列出的是本地路径；GitHub 只提交代码与说明，基座、两套权重、课堂数据、缓存和虚拟环境均由 `.gitignore` 排除。新环境需将这些资源放到相应路径，或通过命令参数指定路径。训练和推理使用本地 `.venv-omni27` 环境，所需包见 `requirements-omni.txt`。
+仓库包含标注、原始文字报告、已选短音视频片段、训练清单、特征与目标缓存、实验元数据和验证报告。完整原始课堂录像、Omni 基座权重、课堂 LoRA 权重、记忆适配器权重和本地 `.venv-omni27` 虚拟环境由 `.gitignore` 排除。新环境推理或重新提取特征时需自行准备权重；适配器训练仍需要 Omni 基座和课堂 LoRA 权重，已有缓存可免去重新提取音视频特征。所需包见 `requirements-omni.txt`。部分训练清单和结果元数据保存了原机器的绝对路径，在其他机器使用时需更新路径。
 
 ## 推理
 
@@ -64,4 +64,4 @@ CUDA_VISIBLE_DEVICES=0 .venv-omni27/bin/python train_classroom_m2kt_adapter.py \
 
 ## 验证报告与局限
 
-本地 `results/classroom_m2kt_adapter/validation_examples_single_paragraph.md` 列出 10 门验证课，展开其中 6 门；这些报告未上传 GitHub。已核对这 10 份生成报告均为单段、无栏目标题。推理只读取音视频片段及其来源信息，不读取验证课原始报告。每门课只有约 16 秒音视频，因此报告是待核查草稿；课程主题、课堂事件、数字和教学成效判断都应与完整录像对照。格式清理本身不会修复事实错误或重复内容。
+[validation_examples_single_paragraph.md](results/classroom_m2kt_adapter/validation_examples_single_paragraph.md) 列出 10 门验证课，展开其中 6 门。已核对这 10 份生成报告均为单段、无栏目标题。推理只读取音视频片段及其来源信息，不读取验证课原始报告。每门课只有约 16 秒音视频，因此报告是待核查草稿；课程主题、课堂事件、数字和教学成效判断都应与完整录像对照。格式清理本身不会修复事实错误或重复内容。

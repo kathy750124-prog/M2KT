@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "kind": "qwen2_5_omni_m2kt_classroom_report",
+  "model_id": "Qwen/Qwen2.5-Omni-3B",
+  "model_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/models_pretrained/Qwen2.5-Omni-3B",
+  "lora_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/results/classroom_omni/lora_v3_10ep/checkpoint-63",
+  "m2kt_checkpoint": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/results/classroom_m2kt_adapter/train_v1/best_adapter.pt",
+  "m2kt_checkpoint_sha256": "da3b2b4a05fc0039e5f6d92b555c38b079808bc74e301ee8c4ed6ed0f566e03e",
+  "m2kt_best_val_loss": 2.411564376148631,
+  "source": {
+    "source": "dataset_provenance",
+    "course_id": "47506",
+    "split": "val",
+    "dataset_dir": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/omni_dataset_v3",
+    "dataset_metadata_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/omni_dataset_v3/metadata.json",
+    "dataset_metadata_sha256": "2a740eb47298be166a351c072ca281bcdd98cc01a491e6c1d8c68981aec53283",
+    "dataset_provenance_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/omni_dataset_v3/provenance.json",
+    "dataset_provenance_sha256": "6061c13f82f966fafa6040f2105479855f20dc1e19cedf9cdaa4e7aed8680698",
+    "source_manifest": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/manifest.json",
+    "source_manifest_sha256": "55c0c9920ef0fa4fe989bf50e2c4fc8a72fdc2a685f35b9ef2284d60b1880965",
+    "available_clip_count": 2,
+    "omitted_clip_count": 0
+  },
+  "clips": [
+    {
+      "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47506/00_s1_v7.mp4",
+      "clip_sha256": "4d8d30511c3292686cce62f2d9b927b5acb1757179817453131ec174d47d3d98",
+      "clip_size_bytes": 319440,
+      "audio_and_video_decoded": true,
+      "duration_seconds": 8.0,
+      "clip_index": 0,
+      "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47506/47506_s1_20260525_082500-092000_view7_cour258658_primary.mp4",
+      "start_seconds": 824.908,
+      "end_seconds": 832.908,
+      "session": 1,
+      "view": 7
+    },
+    {
+      "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/47506/01_s2_v7.mp4",
+      "clip_sha256": "1f567cc9104822affcb0574dffe725802c3e048e74330efa9154edf11da3c88e",
+      "clip_size_bytes": 349154,
+      "audio_and_video_decoded": true,
+      "duration_seconds": 8.0,
+      "clip_index": 1,
+      "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/47506/47506_s2_20260525_092001-101000_view7_cour258659_primary.mp4",
+      "start_seconds": 750.431,
+      "end_seconds": 758.431,
+      "session": 2,
+      "view": 7
+    }
+  ],
+  "system_prompt_sha256": "d6b0ae49f54cdf7d182b921afa9e916d56112315a4eefdb52312f5062447849c",
+  "user_prompt_sha256": "f3c78db222528ba2d1cd7d8465ba5427f319042d1338434ee9480178f334c669",
+  "generation": {
+    "max_new_tokens": 2048,
+    "temperature": 0,
+    "repetition_penalty": 1.1,
+    "report_style": "single-paragraph",
+    "formatting_applied": true,
+    "raw_report_sha256": "6187812087ac5487288b83638e68605094cbb8e1ea3f32fed7b23a628d251a77",
+    "finish_reason": "stop",
+    "quantize_4bit": true,
+    "audio_in_video": true,
+    "fps_max_frames": 12,
+    "video_max_pixels": 50176,
+    "attn_impl": "sdpa",
+    "enhanced_prompt_passes": 1
+  },
+  "report": "本次高等数学A(Ⅱ)课程整体处于中等偏上水平，教学内容聚焦级数收敛性判断与比较判别法应用，知识逻辑连贯且结构清晰，符合高阶思维培养目标。教师采用讲授式策略有效传递抽象概念，前期认知投入度较高，学生外显专注度维持在70%以上，显示出良好的学习准备状态及对理论框架的初步接纳。然而，在关键理解验证环节出现显著的认知断层风险，当涉及递归定义与极限结合时，学生的注意力明显衰减并伴随行为异常，提示该时段存在深度加工不足与元认知反馈机制失效的问题。尽管全程未发生明显的教学节奏失序或秩序混乱现象，但当前学情呈现浅层被动接收倾向叠加深层理解缺口交织的状态，需警惕因缺乏有效的即时干预而影响核心知识点的内化效果。",
+  "software": {
+    "torch": "2.7.0",
+    "transformers": "5.5.0",
+    "ms-swift": "4.6.0"
+  },
+  "caution": "Draft based on selected clips; review the full lesson before formal use."
+}

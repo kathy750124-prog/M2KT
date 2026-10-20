@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "kind": "qwen2_5_omni_m2kt_classroom_report",
+  "model_id": "Qwen/Qwen2.5-Omni-3B",
+  "model_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/models_pretrained/Qwen2.5-Omni-3B",
+  "lora_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/results/classroom_omni/lora_v3_10ep/checkpoint-63",
+  "m2kt_checkpoint": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/results/classroom_m2kt_adapter/train_v1/best_adapter.pt",
+  "m2kt_checkpoint_sha256": "da3b2b4a05fc0039e5f6d92b555c38b079808bc74e301ee8c4ed6ed0f566e03e",
+  "m2kt_best_val_loss": 2.411564376148631,
+  "source": {
+    "source": "dataset_provenance",
+    "course_id": "45277",
+    "split": "val",
+    "dataset_dir": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/omni_dataset_v3",
+    "dataset_metadata_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/omni_dataset_v3/metadata.json",
+    "dataset_metadata_sha256": "2a740eb47298be166a351c072ca281bcdd98cc01a491e6c1d8c68981aec53283",
+    "dataset_provenance_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/omni_dataset_v3/provenance.json",
+    "dataset_provenance_sha256": "6061c13f82f966fafa6040f2105479855f20dc1e19cedf9cdaa4e7aed8680698",
+    "source_manifest": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/manifest.json",
+    "source_manifest_sha256": "55c0c9920ef0fa4fe989bf50e2c4fc8a72fdc2a685f35b9ef2284d60b1880965",
+    "available_clip_count": 2,
+    "omitted_clip_count": 0
+  },
+  "clips": [
+    {
+      "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45277/00_s1_v7.mp4",
+      "clip_sha256": "4be5b46fdd470b6ee7d48daca92e8e484193fad51c4a4c75c60590408c3a5b1f",
+      "clip_size_bytes": 340960,
+      "audio_and_video_decoded": true,
+      "duration_seconds": 8.0,
+      "clip_index": 0,
+      "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45277/45277_s1_20260525_082500-092000_view7_cour258476_primary.mp4",
+      "start_seconds": 824.379,
+      "end_seconds": 832.379,
+      "session": 1,
+      "view": 7
+    },
+    {
+      "clip_path": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/av_clips_v2/45277/01_s2_v7.mp4",
+      "clip_sha256": "388fcd1f4c096cc8159b523845be499b8cf0c7d112a1d2815f354183252774cf",
+      "clip_size_bytes": 415983,
+      "audio_and_video_decoded": true,
+      "duration_seconds": 8.0,
+      "clip_index": 1,
+      "source_video": "/media/l01/5b08c88b-6333-4b5b-980f-0adb8c584ea71/lyw/M2KT/data/classroom/videos/45277/45277_s2_20260525_092001-101000_view7_cour258477_primary.mp4",
+      "start_seconds": 750.359,
+      "end_seconds": 758.359,
+      "session": 2,
+      "view": 7
+    }
+  ],
+  "system_prompt_sha256": "d6b0ae49f54cdf7d182b921afa9e916d56112315a4eefdb52312f5062447849c",
+  "user_prompt_sha256": "f3c78db222528ba2d1cd7d8465ba5427f319042d1338434ee9480178f334c669",
+  "generation": {
+    "max_new_tokens": 2048,
+    "temperature": 0,
+    "repetition_penalty": 1.1,
+    "report_style": "single-paragraph",
+    "formatting_applied": true,
+    "raw_report_sha256": "338853e207178a801183a8b4dd0a95bb2c02c78dc807c0d6e8473bbd84585a6a",
+    "finish_reason": "stop",
+    "quantize_4bit": true,
+    "audio_in_video": true,
+    "fps_max_frames": 12,
+    "video_max_pixels": 50176,
+    "attn_impl": "sdpa",
+    "enhanced_prompt_passes": 1
+  },
+  "report": "本次《中国特色社会主义法治体系》课程整体处于中等偏上水平，教学内容结构清晰且逻辑连贯，教师通过案例导入有效激发了学生的学习兴趣，并在理论讲授阶段保持了较高的专注度。然而，在关键知识点讲解环节出现明显的认知断层风险，尽管存在部分外显注意力下降现象，但该时段学生的实际学习行为尚无法完全归因于被动接收而非主动参与，反映出当前课堂在高密度知识传递过程中对深度学习支持仍有待进一步优化。总体而言，本节课具备较好的学科专业基础与思政育人属性，但在最小反馈闭环机制方面存在隐患，需警惕因缺乏即时验证而影响核心素养目标的有效达成。教学内容结构清晰：教师围绕“法治中国建设”的主题构建了完整的知识框架，涵盖了法律规范、制度保障及价值引领三个层次的内容，体现了系统性思维。 案例导入效果显著：通过引入“法槌”、“握手”、“房屋”等具象化元素作为案例素材，成功激活了学生的学习动机，提升了课堂初始阶段的认知投入。 理论讲授专注度维持良好：在理论讲授为主的时段内，学生表现出高度的专注状态，表明该阶段的教学设计符合认知规律并能有效支撑知识内化。关键知识点讲解时长过长导致理解偏差累积：当进入“法治中国建设”专题的核心理论阐述阶段时，由于未设置有效的认知反馈节点，学生可能未能及时确认已掌握的知识点，从而引发了认知断层的风险；建议：增加互动检查点，如提问或简短总结，帮助学生巩固理解并调整学习节奏。 外显注意力下降不代表真实学习缺失：虽然存在少数时段的学生外显注意力下降，但这可能是由于信息过载或注意力转移所致，而非真正的学习失效；建议：关注非言语信号，避免仅凭单向输出判断学生的真实学习状态。 课堂最小反馈闭环机制仍存隐患：当前课堂虽有明确的教学目标与方法论要求，但在高密度知识传递期间缺乏必要的即时验证手段，可能导致对学生理解程度的评估不足；建议：建立多形式的反馈机制，确保知识传授与能力培养之间的动态平衡。综上所述，本次《中国特色社会主义法治体系》课程在教学内容质量与思政育人导向方面表现优异，但由于在高难度知识讲解环节缺乏有效的认知反馈闭环，存在潜在的认知断层风险。建议后续关注关键知识点的深度处理以及最小反馈机制的完善，以更好地促进学生深度学习与能力提升。",
+  "software": {
+    "torch": "2.7.0",
+    "transformers": "5.5.0",
+    "ms-swift": "4.6.0"
+  },
+  "caution": "Draft based on selected clips; review the full lesson before formal use."
+}

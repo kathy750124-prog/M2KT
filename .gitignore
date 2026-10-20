@@ -1,7 +1,10 @@
-/data/
 /.venv-omni27/
 /.cache/
-/models_pretrained/
-/results/
+/.pytest_cache/
+/data/classroom/videos/
+/models_pretrained/Qwen2.5-Omni-3B/model-*.safetensors
+/models_pretrained/Qwen2.5-Omni-3B/spk_dict.pt
+/results/classroom_omni/lora_v3_10ep/checkpoint-63/adapter_model.safetensors
+/results/classroom_m2kt_adapter/train_v1/best_adapter.pt
 __pycache__/
 *.pyc
