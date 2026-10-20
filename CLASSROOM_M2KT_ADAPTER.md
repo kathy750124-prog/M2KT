@@ -2,18 +2,7 @@
 
 当前模型由 Qwen2.5-Omni-3B、课堂报告 LoRA 和 M2KT 风格记忆适配器组成。Omni 读取同步视频与声音，记忆适配器增强音视频 token，Thinker 生成中文报告。训练适配器时冻结基座和 LoRA，只更新记忆模块。已有课堂数据按课程划分为训练 56、验证 10、测试 10 门，每门课选取两段约 8 秒的 MP4。
 
-```mermaid
-flowchart LR
-    MP4["两段课堂音视频"] --> Enc["冻结的 Omni 音视频编码器"]
-    Enc --> Tokens["音视频 token"]
-    Tokens --> Memory["M2KT 风格可学习记忆读写"]
-    Memory --> Thinker["冻结的 Omni Thinker + 课堂 LoRA"]
-    Thinker --> Format["去栏目标题并合为一个自然段"]
-    Format --> Report["中文课堂报告草稿"]
-    Labels["训练集原始中文报告"] --> Loss["报告 token 交叉熵"]
-    Thinker --> Loss
-    Loss -.->|只更新记忆适配器| Memory
-```
+![课堂音视频报告模型结构图](docs/classroom_m2kt_architecture.png)
 
 记忆模块代码见 [classroom_m2kt_adapter.py](classroom_m2kt_adapter.py)。它将 2048 维音视频特征投影到 256 维，使用 16 个记忆槽读取特征，再以门控残差写回音视频 token。共有 1,585,409 个可训练参数。它借鉴原 M2KT 的可学习记忆增强特征思路；没有使用原医学 LAMRG 网络、医学权重或手工督导规则。当前所谓训练标签是**原始中文报告全文**，没有单独的课堂事件分类标签。
 
