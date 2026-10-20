@@ -64,4 +64,4 @@ CUDA_VISIBLE_DEVICES=0 .venv-omni27/bin/python train_classroom_m2kt_adapter.py \
 
 ## 验证报告与局限
 
-[单段验证报告与原始报告对照](results/classroom_m2kt_adapter/validation_examples_single_paragraph.md)列出 10 门验证课，展开其中 6 门。已核对这 10 份生成报告均为单段、无栏目标题。推理只读取音视频片段及其来源信息，不读取验证课原始报告。每门课只有约 16 秒音视频，因此报告是待核查草稿；课程主题、课堂事件、数字和教学成效判断都应与完整录像对照。格式清理本身不会修复事实错误或重复内容。
+本地 `results/classroom_m2kt_adapter/validation_examples_single_paragraph.md` 列出 10 门验证课，展开其中 6 门；这些报告未上传 GitHub。已核对这 10 份生成报告均为单段、无栏目标题。推理只读取音视频片段及其来源信息，不读取验证课原始报告。每门课只有约 16 秒音视频，因此报告是待核查草稿；课程主题、课堂事件、数字和教学成效判断都应与完整录像对照。格式清理本身不会修复事实错误或重复内容。
