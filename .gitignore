@@ -1,0 +1,7 @@
+/data/
+/.venv-omni27/
+/.cache/
+/models_pretrained/
+/results/
+__pycache__/
+*.pyc

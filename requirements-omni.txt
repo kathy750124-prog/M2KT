@@ -1,0 +1,14 @@
+# Install in a Python 3.10 environment with CUDA-enabled PyTorch >= 2.6.
+# This project used torch 2.7.0+cu126.
+# Install torchvision 0.22.0+cu126 separately from the matching PyTorch index.
+ms-swift==4.6.0
+qwen-omni-utils==0.0.9
+transformers==5.5.0
+peft==0.18.1
+bitsandbytes==0.49.2
+datasets==4.8.4
+av==17.0.0
+decord==0.6.0
+soundfile==0.14.0
+imageio-ffmpeg==0.6.0
+pillow
